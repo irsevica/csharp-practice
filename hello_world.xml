@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>hello_world</name>
+    </assembly>
+    <members>
+        <member name="T:HelloWorld">
+            <summary>
+            A test project to show documentation comments.
+            </summary>
+        </member>
+        <member name="M:HelloWorld.Main(System.String[])">
+            <summary>
+            The Main method of the program.
+            </summary>
+            <param name="args">Command-line arguments.</param>
+            <returns>Does not return a value.</returns>
+        </member>
+    </members>
+</doc>
